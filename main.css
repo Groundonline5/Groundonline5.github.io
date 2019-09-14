@@ -3,6 +3,8 @@
 }
 
 .Dimon__pidor {
+    width: 100%;
+    height: 100%;
  text-align: center;
     display: -webkit-flex;
     display: -moz-flex;
@@ -38,4 +40,6 @@ body {
     text-align: center;
     -ms-align-self: center;
     align-self: center;
+    width: 100vw;
+    height: auto;
 }

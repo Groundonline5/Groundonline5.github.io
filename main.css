@@ -1,0 +1,37 @@
+* {
+    box-sizing: border-box;
+}
+
+.Dimon__pidor {
+    width: 100vw;
+    height: 100vh;
+    font-size: 22px;
+    background: url(../images/Dimon.jpg) no-repeat;
+       vertical-align:middle;
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    display: -o-flex;
+    display: flex;
+    -ms-align-items: center;
+    align-items: center;
+    justify-content: center;
+        -moz-background-size: 100%; 
+    -webkit-background-size: 100%; 
+    -o-background-size: 100%; 
+    background-size: 100%; 
+    background-position: right bottom -50px;
+}
+
+.pidor__title {
+	margin: 0;
+    padding: 0;
+    color: #fff;
+    text-align: center;
+ 
+    
+}
+
+body {
+    margin: 0;
+}
